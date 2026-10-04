@@ -1,0 +1,8 @@
+name: AiCompanion
+version: 1.0
+main: me.companion.CompanionPlugin
+api-version: '26.2'
+commands:
+  bot:
+    description: Control your companion bot
+    usage: /bot spawn|remove|follow|stay|attack on|off|name <name>
